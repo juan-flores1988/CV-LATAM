@@ -1,0 +1,108 @@
+body{background-color: rgb(114, 117, 117);
+border: solid;
+margin: 0%;
+height: auto;}
+
+header h1{
+    font-family: cursive;
+    font-size: 3rem;
+    text-align: center;}
+
+    header:hover{color: white;
+    text-decoration: underline;
+}
+
+main :hover{color: rgb(99, 6, 63);
+text-decoration: underline;}
+
+.desafio1{
+    display: flex;
+    justify-content:center;
+    gap: 20rem;
+    padding: 3rem;
+    margin-top: 8rem;
+    background-color:  rgb(212, 211, 243);
+    border-radius: 3rem;
+    border: solid;}
+
+
+.desafio1 img{
+    height: 20rem;
+    border: solid;
+}
+
+.desafio1 p{
+    font-family: cursive;
+    font-size: 4rem;
+    margin-top: 10rem;
+
+}
+
+
+
+.desafio2{
+    display: flex;
+    justify-content:center;
+    gap: 20rem;
+    padding: 3rem;
+    margin-top: 5rem;
+    background-color:  rgb(212, 211, 243);
+    border-radius: 3rem;
+    border: solid;}
+
+
+.desafio2 img{
+    height: 20rem;
+    border: solid
+}
+
+.desafio2 p{
+    font-family: cursive;
+    font-size: 4rem;
+    margin-top: 10rem;
+}
+
+.desafio3{
+    display: flex;
+    justify-content:center;
+    gap: 20rem;
+    padding: 3rem;
+    margin-top: 5rem;
+    background-color:  rgb(212, 211, 243);
+    border-radius: 3rem;
+    border: solid;}
+
+
+.desafio3 img{
+    height: 20rem;
+    border: solid
+}
+
+.desafio3 p{
+    font-family: cursive;
+    font-size: 4rem;
+
+    margin-top: 10rem;
+}
+
+.desafio4{
+    display: flex;
+    justify-content:center;
+    gap: 20rem;
+    padding: 3rem;
+    margin-top: 5rem;
+    background-color:  rgb(212, 211, 243);
+    border-radius: 3rem;
+    border: solid;}
+
+
+.desafio4 img{
+    height: 20rem;
+    border: solid
+}
+
+.desafio4 p{
+    font-family: cursive;
+    font-size: 4rem;
+    margin-top: 10rem;
+}
